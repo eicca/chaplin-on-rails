@@ -7,11 +7,11 @@ require "chaplin-on-rails/version"
 Gem::Specification.new do |s|
   s.name        = "chaplin-on-rails"
   s.version     = ChaplinOnRails::VERSION
-  s.authors     = ["TODO: name"]
-  s.email       = ["TODO: email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of ChaplinOnRails."
-  s.description = "TODO: Description of ChaplinOnRails."
+  s.authors     = ["Mikhail Di"]
+  s.email       = ["wtltl2@gmail.com"]
+  s.homepage    = "https://github.com/eicca/chaplin-on-rails"
+  s.summary     = "Chaplin.js integration for Rails >= 3.1"
+  s.description = "Gem for using Chaplin.js with Rails asset pipeline, based on chaplin-rails boilerplate project."
 
   s.files = Dir["{vendor,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]
