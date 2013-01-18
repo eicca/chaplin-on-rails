@@ -13,7 +13,7 @@ Gem already comes with `underscore.js` and `backbone.js`.
 
 Add this line to your application's Gemfile:
 
-    gem 'chaplin-on-rails', git: 'git://github.com/eicaa/chaplin-on-rails.git'
+    gem 'chaplin-on-rails', git: 'git://github.com/eicca/chaplin-on-rails.git'
 
 And then execute:
 
